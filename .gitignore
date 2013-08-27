@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/auditlog-api/target/
+/auditlog-consumer-jms/target/
+/auditlog-producer-jms/target/
